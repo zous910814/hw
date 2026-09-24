@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+assignment_submission_guidelines.md
